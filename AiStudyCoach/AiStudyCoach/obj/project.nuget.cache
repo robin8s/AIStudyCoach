@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HheK9QoxDC8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robin\\OneDrive\\Documents\\GitHub\\AIStudyCoach\\AiStudyCoach\\AiStudyCoach\\AiStudyCoach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robin\\.nuget\\packages\\llmtornado\\3.8.54\\llmtornado.3.8.54.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robin\\OneDrive\\Documents\\GitHub\\AIStudyCoach\\AiStudyCoach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9C848C-04DB-499D-BBC0-AA52D325F0FC}|AiStudyCoach\\AiStudyCoach.csproj|c:\\users\\robin\\onedrive\\documents\\github\\aistudycoach\\aistudycoach\\aistudycoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9C848C-04DB-499D-BBC0-AA52D325F0FC}|AiStudyCoach\\AiStudyCoach.csproj|solutionrelative:aistudycoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\OneDrive\\Documents\\GitHub\\AIStudyCoach\\AiStudyCoach\\AiStudyCoach\\Program.cs",
+              "RelativeDocumentMoniker": "AiStudyCoach\\Program.cs",
+              "ToolTip": "C:\\Users\\Robin\\OneDrive\\Documents\\GitHub\\AIStudyCoach\\AiStudyCoach\\AiStudyCoach\\Program.cs",
+              "RelativeToolTip": "AiStudyCoach\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T14:57:56.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
