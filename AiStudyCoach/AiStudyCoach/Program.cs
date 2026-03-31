@@ -13,11 +13,16 @@ TornadoApi api = new TornadoApi(
     LLmProviders.OpenAi);
 
 Conversation chat = CreateConversation(api, currentMode);
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("Welcome to the AI Study Coach, we include three seperate modes to fufill your learningn needs. Type /help for a list of commands");
 
 while (true)
 {
+
     Console.WriteLine();
+    Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine($"Current mode: {currentMode}");
+    Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Write("You: ");
     string? userInput = Console.ReadLine();
 
@@ -29,6 +34,7 @@ while (true)
 
     if (userInput.Equals("/help", StringComparison.OrdinalIgnoreCase))
     {
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Commands:");
         Console.WriteLine("/mode tutor");
         Console.WriteLine("/mode quiz");
@@ -46,16 +52,28 @@ while (true)
         {
             currentMode = requestedMode;
             chat = CreateConversation(api, currentMode);
-            Console.WriteLine($"Switched to {currentMode} mode.");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Switched to {currentMode.ToUpper()} mode.");
+            Console.WriteLine("--------------------------------");
         }
         else
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Unknown mode.");
         }
 
         continue;
     }
 
+    if (userInput.Equals("/clear", StringComparison.OrdinalIgnoreCase))
+    {
+        chat = CreateConversation(api, currentMode);
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Conversation cleared.");
+        continue;
+    }
+
+    Console.ForegroundColor = ConsoleColor.Cyan;
     Console.Write("Bot: ");
     await chat.AppendUserInput(userInput).StreamResponse(Console.Write);
     Console.WriteLine();

@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Robin\\OneDrive\\Documents\\GitHub\\AIStudyCoach\\AiStudyCoach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C9C848C-04DB-499D-BBC0-AA52D325F0FC}|AiStudyCoach\\AiStudyCoach.csproj|c:\\users\\robin\\onedrive\\documents\\github\\aistudycoach\\aistudycoach\\aistudycoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9C848C-04DB-499D-BBC0-AA52D325F0FC}|AiStudyCoach\\AiStudyCoach.csproj|solutionrelative:aistudycoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42B471C8-902E-9EC8-F5D5-D278B96A9FF3}|AiStudyCoach\\AiStudyCoach.csproj|c:\\users\\robin\\onedrive\\documents\\github\\aistudycoach\\aistudycoach\\aistudycoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B471C8-902E-9EC8-F5D5-D278B96A9FF3}|AiStudyCoach\\AiStudyCoach.csproj|solutionrelative:aistudycoach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAIVAAAAAAAAAAAswBsVAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-31T02:42:46.314Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "AiStudyCoach\\Program.cs",
               "ToolTip": "C:\\Users\\Robin\\OneDrive\\Documents\\GitHub\\AIStudyCoach\\AiStudyCoach\\AiStudyCoach\\Program.cs",
               "RelativeToolTip": "AiStudyCoach\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwEwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwE0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T14:57:56.348Z",
               "EditorCaption": ""

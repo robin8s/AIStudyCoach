@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiStudyCoach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+186483efcd4cd97f106cea7a78c1344422acd5dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd022416f1b8207f4f32fdc058f1fd0f8b0510a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiStudyCoach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiStudyCoach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
